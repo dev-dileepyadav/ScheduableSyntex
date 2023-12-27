@@ -1,0 +1,6 @@
+public class ScheduableSyntex implements schedulable {
+
+    public void execute(schedulableContext bc){
+        
+    }
+}
